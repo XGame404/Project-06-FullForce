@@ -1,0 +1,1 @@
+C:\Training\Project 06 - Full Force\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\603e5z4q\obj\arm64-v8a
